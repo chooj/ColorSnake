@@ -1,2 +1,2 @@
 # ColorSnake
-COLORFULL!!!
+Drag with mouse
